@@ -126,6 +126,9 @@ blockquote {
 /* links */
 
 a {
+
+  color: $link-color !important;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -135,7 +138,7 @@ a {
   }
 
   &:hover {
-    color: $link-color-hover;
+    color: $link-color-hover !important;
     outline: 0;
   }
 }
