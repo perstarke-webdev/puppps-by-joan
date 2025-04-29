@@ -4,7 +4,7 @@
     min-width: 300px;
     height: auto;
     margin-bottom: 0;
-    margin-top: -5rem;
+    margin-top: -4rem;
 }
 
 .hero-buttons {
@@ -14,32 +14,38 @@
 
 @media (max-width: 1000px) {
     .hero-logo {
-        margin-top: -11rem !important;
-    }
-
-    .hero-buttons {
-        margin-top: -5rem !important;
-    }
-}
-
-@media (max-width: 850px) {
-    .hero-logo {
         margin-top: -14rem !important;
     }
-}
 
-@media (max-width: 700px) {
     .hero-buttons {
         margin-top: -2rem !important;
     }
 }
 
-@media (max-width: 500px) {
+
+@media (max-width: 450px) {
     .hero-logo {
-        margin-top: -10rem !important;
+        margin-top: -12rem !important;
+        margin-left: -0.65rem !important;
     }
 
     .hero-buttons {
-        margin-top: -4rem !important;
+        margin-top: -2rem !important;
+        font-size: 70%
+    }
+}
+
+@media (orientation: landscape) and (max-height: 500px) {
+    .hero-logo {
+        width: 40vw !important;
+        max-width: 200px !important;
+        min-width: 150px !important;
+        margin-top: 2rem !important;
+        margin-bottom: 1rem !important;
+        margin-left: 0 !important;
+    }
+
+    .hero-buttons {
+        margin-top: -2rem !important;
     }
 }
