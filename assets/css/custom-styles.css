@@ -48,19 +48,23 @@
     .hero-buttons {
         margin-top: -2rem !important;
     }
+
+    .page__title {
+        margin-top: 4rem !important;
+    }
 }
 
 
 
 
 
-@media (max-width: 767px) {
+@media (max-width: 800px) {
     .desktop-only {
         display: none !important;
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
     .mobile-only {
         display: none !important;
     }
