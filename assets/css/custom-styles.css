@@ -65,3 +65,8 @@
         display: none !important;
     }
 }
+
+
+.bigger {
+    font-size: 120% !important;
+}
