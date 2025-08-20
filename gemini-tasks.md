@@ -1,27 +1,121 @@
-I got this text as well from Joan:
+I have added
+
+TravelandRecipes
+
+as a file. I got that from Joan.
+
+She furthermore shared this docx text:
 
 
-"""
-Did you know that some other countries manage pet animal welfare by strictly regulating how many persons are licensed to breed and the numbers of litters and total pet population?  For example, Germany has around ten million pets compared to the U.S. with nearly ninety million dogs, and eighty eight million cats?  That’s just the known pets and the actual number is likely much higher.   Is it any wonder why there’s more coming into shelters and being euthanized because our society simply cannot support that many?
+(More content for Travel and Recipes tab)
 
-While there are many related factors and currently (late 2025) many surrenders are due to owners losing their housing, general costs to keep pets, and medical care costs.  All shelters are overwhelmed.  It is sad and unfair to the animals.  Volunteers and workers at shelters are frantically doing their very best to house and care for as many as possible in hopes of finding them homes.  The overwhelming volume of homeless pets is at an all time high and to me is like a NEON SIGN:  WE NEED IMMEDIATE NEW ANIMAL WELFARE LAWS STRICTLY ENFORCED UNTIL NUMBERS ARE GREATLY REDUCED.  A NEW LOWER VOLUME THRESHOLD MUST BE OBTAINED AND THEN MAINTAINED.  Please take action, be a voice for animals and help bring much needed change!
+Shepherds Pie
+Perfect for St. Patrick’s Day or just a special treat!
 
-Here’s an action plan; reach out to your community leaders and lawmakers, initiate and drive creation of laws (examples to propose below), gather petition signatures in your community in order to qualify to appear on next ballot, or, pursue leaders who have the willingness and ability to enact changes directly:
+1 lb. ground beef
+1 cup peas and chopped carrots
+1 russet potato
+2 Tblsp. [lain unsweetened yogurt OR cream cheese
+¼ tsp. Oregano
 
-*	Enforced laws requiring ALL breeders to be licensed and registered in their state, the number of licenses given out based on adoption rate statistics minus fifty percent until all shelters at 20% capacity with zero euthanasia of healthy pets; credentials and requirements high, with inspections and on- going monitoring.  NO “backyard breeders”.  No pet owners “having just one litter”.  Heavy financial penalties that effectively change behavior.  Repeat offenders jail time. Until we get this under control, then review the number of breeder licenses.
-*	Hotlines for members of the community to call and report roadside signs “puppies for sale”.  A social media campaign to educate everyone, before buying a puppy from a breeder, and demand to see their license and a website to verify it’s legitimate, and the financial penalties for failing to do so.  Unlicensed breeders should be fined $5000 per puppy they sell/sold or have in their possession,  for first offense and double plus a year of jail per puppy, if they are  repeat offenders.  People should be fined $5000 for purchasing from an unlicensed breeder.  (Based on estimated cost for proper care and housing resulting for a pet in the overpopulation, actual cost could vary but my point is, the penalty should be proportional and high enough to cause people to think about consequences)
-*	All  pets spay/neuter for free, mandatory, and enforced but allowing owners to adopt/rescue unneutered and unspayed animals, and become responsible for having it done when pets are old enough to safely do so.
+Brown the ground beef in a skillet, add the oregano. Peel and chop the potato, boil until done, then mix with either yogurt or cream cheese to make mashed potatoes Separately, boil the peas and carrots until soft.  In a baking dish, add the ground beef, then layer the cooked peas and carrots, finishing with the mashed potatoes on top.  Bake at 350 degrees for 15 minutes.
 
-*	Community based action team that works in the community, going to homes, meeting with people having pet issues and trying to resolve them before surrendering and hotline and location for people to seek assistance.  Most surrenders are due to financial and behavioral issues.  By offering training and behavior modification support as well as financial support, fewer will be surrendered.  Also,  program to include volunteers go out after adoptions and ensure the pet and family are settling in successfully and providing support where needed to eliminate resurrenders.
 
-*	Repurposing shelter space for telehealth, community clinic services and training
+Basic Homemade Dinner
 
-*	Oversight: staff and personnel from some of the rescue organizations, since there will be fewer needing rescue
+5 lbs.ground beef, turkey, or chicken
+1 cup quinoa
+1 cup vegetables: broccoli, asparagus, green beans, brussel sprouts, sweet potatoes
+⅛ of an apple, peeled and cored
+A few blueberries or cranberries
 
-*	Funding: calculate the amount needed and add .05 percent to county tax rate and/or a portion to Federal tax structure.  This is a societal issue, everyone should be part of the solution.  It’s no different than a teeny portion going to schools, even if we don’t have children. Another revenue source if needed would be an extra percentage tax on all pet goods and services (excluding veterinary care costs)
+Heat over to 400.  Place protein in a roasting pan.  While it is baking, add two cups water to quinoa and prepare in a pan.  I mix the vegetables, berries and apple in with the quinoa and cook together, or you can do so separately.  Check the oven after ten minutes, flip the meat over so browns on other side, and continue to cook until it is no longer pink.  Then combine the meat, quinoa and vegetables.
 
-*	Even if the beginning plan isn’t perfect, SOMETHING is needed.  Drastic cuts to overbreeding to start with and then adjusted and managed as needed..  
+For an occasional treat, you can serve as above.  If you are preparing this as your dog’s primary food, then you’ll want to consider adding   vitamins, minerals, omega’s and a probiotic.  Dr. Dobias.com is where I purchase these items and more for my dogs.  I am not a pet nutritionist, however I have consulted with a few and recommend you also do your own research if you are planning to cook for your pups on a regular basis.
 
-"""
 
-I am not sure where and how to integrate it. Please make suggestions, cleanly and easily, good for the page flow and purpose, in gemini review md.
+
+
+___
+
+
+I am not fully sure what she wants, she did not specify. I assume she wants a fully new page for that?
+Do you agree?
+Let's create this. For the imagess in the PDF; use placeholder (use images we alreayd have in this repo), i will replace them later.
+
+Take the content from the pdf + the text above, update phrasing if needed, and create a new page for this, or what would you suggest?
+Write to gemin plan your plan before acting, so i can confirm. Give me your insights on how to best implement this. New page, or subsection?
+
+
+---
+
+
+copied PDF content:
+
+
+Here is the full transcription of the content from your screenshot with IMAGE PLACEHOLDER markers where the images are:
+
+SCANDALOUS TAILS OF NORTH SCOTTSDALE
+JOAN GILMOUR
+
+Doris Day owned this lovely boutique inn, and her legacy lives on, a treasured place where pets are welcomed and pampered in old Hollywood luxury. It is my favorite place for a pet friendly stay!
+Photo: Dieter at the Cypress Inn, Carmel, CA
+
+[IMAGE PLACEHOLDER]
+
+There are many trails to explore when you are in Scottsdale, Arizona! Fraesfield is less crowded and offers several distinct experiences. Duke, age ten, on the right and Dieter, age three.
+
+Von Diesel and Dieter at the Verde River, Arizona
+
+[IMAGE PLACEHOLDER]
+
+[IMAGE PLACEHOLDER]
+
+SCANDALOUS TAILS OF NORTH SCOTTSDALE
+JOAN GILMOUR
+
+Sinbad’s Stew (photo of Sinbad above)
+
+1 whole all-natural free-range chicken*
+
+1 cup brown rice
+
+1 carrot
+
+¼ cup peas and green beans combined
+
+Few sprigs of parsley or rosemary
+
+Cover the whole chicken with water in a large pot, cover, boil on medium heat until falling off the bones. Strain and reserve liquid to cook rice and vegetables. Meanwhile, allow chicken to cool enough to work with, then carefully pick out all bones, splintery pieces, skin, tendons. Chop chicken to desired size depending on dog breed/size. Mix together cooked rice, veggies, and chicken.
+
+*If allergic to chicken, substitute turkey or lean beef stew meat
+
+[IMAGE PLACEHOLDER]
+
+Special Occasion Doggie Lasagne
+I prepared this for three German shepherds—you may need to reduce the recipe!
+
+1 red bell pepper, pureed, add ½ cup water, this will be the “sauce”
+
+1 lb. cooked ground turkey, add ¼ tsp. oregano
+
+1 lb. cottage cheese, mixed with 1 egg
+
+6 lasagna noodles, cooked
+
+Layer noodles, sauce, meat, cheese, and sprinkle mozzarella or parmesan cheese on top. Bake at 375 for 25 minutes. Cool for 20 minutes. Test. Serve.
+
+Kitty’s Crave
+
+8 oz. wild-caught salmon, oven baked
+
+6 water-packed unsalted sardines (can substitute mackerel or herring)
+
+6 eggs, oven baked well done (no liquid)
+
+1 cup quinoa, cooked**
+
+Mix and serve as a special treat!
+Can also be served as a meal topper!
+**I leave quinoa out for kitties, add for doggos
+
