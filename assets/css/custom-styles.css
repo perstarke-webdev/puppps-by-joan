@@ -39,7 +39,7 @@
     .hero-logo {
         width: 40vw !important;
         max-width: 200px !important;
-        min-width: 150px !important;
+        min-width: 150px !import ant;
         margin-top: 2rem !important;
         margin-bottom: 1rem !important;
         margin-left: 0 !important;
@@ -96,4 +96,25 @@
 
 .link-section-desktop .link-buttons {
     justify-content: flex-start;
+}
+
+.read-more-btn {
+    margin-top: 1rem;
+}
+
+.expandable-content {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.expandable-content ul {
+    list-style-position: inside;
+    padding-left: 1rem;
+}
+
+.expandable-content li {
+    margin-bottom: 1rem;
 }
