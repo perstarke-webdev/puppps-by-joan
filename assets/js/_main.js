@@ -128,9 +128,22 @@ $(function() {
       var anchor = document.createElement("a");
       anchor.className = 'header-link';
       anchor.href = '#' + id;
-      anchor.innerHTML = '<span class=\"sr-only\">Permalink</span><i class=\"fas fa-link\"></i>';
+      anchor.innerHTML = '<span class="sr-only">Permalink</span><i class="fas fa-link"></i>';
       anchor.title = "Permalink";
       $(this).append(anchor);
     }
+  });
+
+  // Expandable content
+  $(".read-more-btn").on("click", function(e) {
+      e.preventDefault();
+      var target = $(this).data("target");
+      var content = $("#" + target);
+      content.slideToggle();
+      if ($(this).text() == "Read More") {
+          $(this).text("Read Less");
+      } else {
+          $(this).text("Read More");
+      }
   });
 });

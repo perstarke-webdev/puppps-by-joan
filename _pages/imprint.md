@@ -1,89 +1,88 @@
 ---
 layout: page
-title: Impressum und Datenschutz
+title: Privacy Policy and Contact
 permalink: /imprint
 ---
 
 <br><br><br><br><br>
-#### German Imprint
-This imprint & privacy note is in German, as I (Per Starke, the responsible person) am German, and it's therefore
-required by German Law. Contact me or use translation tools for an english version. 
 
-<hr>
+## Contact Information
 
-#### Anbieter und Verantwortliche Person
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+**Responsible Person:** Joan Gilmour
 
+**Email:** jgilmour1@msn.com
 
-#### Kontakt
-Telefon: +49 160 93268817
 <br>
-e-Mail: per_at_starke-team.de
-<br>  
-  
-[Website](https://perstarke-webdev.de/)   
-[Blog](https://blog.perstarke-webdev.de/)
 
-  
-## Datenschutzerklärung
+## Privacy Policy
 
-#### Geltungsbereich
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Per Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
-<br />
-Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutzgrundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
-<br />
+This Privacy Policy explains how Joan Gilmour ("we," "us," or "our") collects, uses, and protects information when you visit our website.
 
-#### Zugriffsdaten/ Server-Logfiles
-Der Webspace-Provider des Anbieters erhebt Daten über jeden Zugriff auf das Angebot (so genannte Serverlogfiles). Zu diesen Zugriffsdaten gehören:<br />
-<br />
-Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.<br/>
-<br/>
-Der Anbieter verwendet diese Protokolldaten *nicht*!
+### Scope
 
-Der Anbieter behält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
+This policy applies to all users of this website. We are committed to protecting your privacy and handling your data in an open and transparent manner.
 
-#### GitHub Pages und CDN-Nutzung:
+### Access Data / Server Log Files
 
-Diese Website wird über [GitHub Pages](https://pages.github.com/) bereitgestellt, einem von GitHub, Inc. angebotenen Dienst, der es ermöglicht, Webseiteninhalte effizient und schnell weltweit zu verteilen. Die Verwendung von GitHub Pages integriert automatisch ein Content Delivery Network (CDN), um die Ladezeiten der Website zu optimieren und die Verfügbarkeit von Inhalten sicherzustellen.
+Our web hosting provider automatically collects data about every access to this website (known as server log files). This access data includes:
 
-Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, dass einige Ihrer nicht-persönlichen Daten, wie die IP-Adresse und Informationen zur Seitennutzung, über das CDN übertragen werden können, um eine optimale Leistung der Website zu gewährleisten. Diese Datenübertragung erfolgt in Übereinstimmung mit den geltenden Datenschutzbestimmungen.
+*   Name of the accessed web page
+*   File
+*   Date and time of access
+*   Amount of data transferred
+*   Notification of successful retrieval
+*   Browser type and version
+*   User's operating system
+*   Referrer URL (the previously visited page)
+*   IP address
+*   Requesting provider
 
-Wir respektieren Ihre Privatsphäre und ergreifen angemessene Maßnahmen, um Ihre persönlichen Informationen zu schützen. Bitte beachten Sie unsere Datenschutzerklärung für weitere Informationen darüber, wie wir mit Ihren Daten umgehen.
+We do not actively use this log data for analysis. However, we reserve the right to review this log data retrospectively if there is concrete suspicion of unlawful use.
 
-Bei Fragen oder Anliegen zur Verwendung von GitHub Pages und des CDNs auf dieser Website können Sie sich gerne an uns wenden.
+### GitHub Pages and CDN Usage
 
-#### Kontaktaufnahme
-Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
+This website utilizes a Content Delivery Network (CDN) to optimize loading times and ensure efficient content delivery worldwide. This service is provided by GitHub Pages ([https://pages.github.com/](https://pages.github.com/)), which enables efficient and fast distribution of website content.
 
+By using this website, you agree that some of your non-personal data, such as IP address and page usage information, may be transmitted via the CDN to ensure optimal website performance. This data transfer occurs in accordance with applicable data protection regulations.
 
-#### Kommentare und Beiträge
-Diese Site enthält keine Kommentarfunktion, Nutzer können daher keine Beiträge hinterlassen.
+We respect your privacy and take appropriate measures to protect your information. Please refer to this Privacy Policy for more information on how we handle your data.
 
-#### Analyse, Tracking und Cookies
-Diese Seite verwendet kein Tracking, um Zugriffszahlen zu ermitteln.
-Es wird ein Cookie für die Dauer von einem Tag gesetzt, um die Zustimmung zur Verwendung der Website zu speichern, im Banner auf der Startseite, davon abgesehen verwenden wir keine Cookies.
+If you have any questions or concerns regarding the use of GitHub Pages and the CDN on this website, please feel free to contact us.
 
-#### Haftung für Links
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+### Contacting Us
 
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+When you contact us (e.g., via email), the information you provide will be stored for the purpose of processing your inquiry and for any follow-up questions.
 
-### Urheberrecht
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+### Comments and Contributions
 
-Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+This site does not include a comment function, so users cannot leave contributions.
 
-#### Datenschutzerklärung für die Nutzung von FontAwesome
-Auf unseren Seiten verwenden wir grafische Symbole von FontAwesome,
-einem Visualisierungsdienst der Firma Font Awesome, Inc. Dieser Dienst
-erlaubt die Darstellung diverser Icon-Symbole auf unseren Seiten.
+### Analytics, Tracking, and Cookies
 
-FontAwesome nutzt anonyme Zugriffsdaten, die in deren
-[privacy policy](https://fontawesome.com/privacy) spezifiziert sind.
+This site uses cookie-free analytics via Plausible.io to understand website traffic. Plausible.io is a lightweight and open-source web analytics tool that respects user privacy by not collecting any personal data or using cookies. You can learn more about their approach to privacy here: [https://plausible.io/privacy](https://plausible.io/privacy).
 
-Auf dieser Webseite wird FontAwesome allerdings lokal gehostet und somit keine Daten an FontAwesome weitergegeben.
-<br/>
+A cookie is set for a duration of one day to store consent for website usage, as displayed in the banner on the homepage. Apart from this, we do not use other cookies.
 
+### Liability for Links
 
-#### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
-Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />
+Our website contains links to external third-party websites over whose content we have no influence. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the linked pages is always responsible for their content. The linked pages were checked for possible legal violations at the time of linking. Illegal content was not recognizable at the time of linking.
+
+However, permanent content control of the linked pages is not reasonable without concrete evidence of a legal violation. Upon becoming aware of legal violations, we will immediately remove such links.
+
+### Copyright
+
+The content and works created by the site operator on these pages are subject to copyright. The reproduction, processing, distribution, and any form of commercialization beyond the scope of copyright law require the written consent of the respective author or creator. Downloads and copies of this page are permitted only for private, non-commercial use.
+
+Insofar as the content on this site was not created by the operator, the copyrights of third parties are observed. In particular, third-party content is marked as such. Should you nevertheless become aware of a copyright infringement, please notify us accordingly. Upon becoming aware of legal violations, we will immediately remove such content.
+
+### Privacy Policy for the Use of FontAwesome
+
+On our pages, we use graphical symbols from FontAwesome, a visualization service from Font Awesome, Inc. This service allows the display of various icon symbols on our pages.
+
+FontAwesome uses anonymous access data, which are specified in their [privacy policy](https://fontawesome.com/privacy).
+
+However, FontAwesome is hosted locally on this website, and therefore no data is transmitted to FontAwesome.
+
+### Right to Information, Correction, Blocking, and Deletion
+
+Users have the right to receive information free of charge, upon request, about the personal data stored about them. Additionally, users have the right to correct inaccurate data, block, and delete their personal data, provided that no legal retention obligation conflicts with this.

@@ -39,7 +39,7 @@
     .hero-logo {
         width: 40vw !important;
         max-width: 200px !important;
-        min-width: 150px !important;
+        min-width: 150px !import ant;
         margin-top: 2rem !important;
         margin-bottom: 1rem !important;
         margin-left: 0 !important;
@@ -73,4 +73,48 @@
 
 .bigger {
     font-size: 120% !important;
+}
+
+.link-section {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.link-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.link-section-desktop {
+    text-align: left;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.link-section-desktop .link-buttons {
+    justify-content: flex-start;
+}
+
+.read-more-btn {
+    margin-top: 1rem;
+}
+
+.expandable-content {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.expandable-content ul {
+    list-style-position: inside;
+    padding-left: 1rem;
+}
+
+.expandable-content li {
+    margin-bottom: 1rem;
 }

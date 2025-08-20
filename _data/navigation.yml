@@ -12,6 +12,9 @@ main:
   - title: "Initiatives"
     url: /initiatives
     blank: false
+  - title: "Travel & Recipes"
+    url: /recipes
+    blank: false
   - title: "Contact"
     url: /contact
     blank: false
