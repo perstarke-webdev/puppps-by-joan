@@ -9,11 +9,11 @@ main:
   - title: "Podcast"
     url: /podcast
     blank: false
-  - title: "Travel & Recipes"
-    url: /recipes
-    blank: false
   - title: "Initiatives"
     url: /initiatives
+    blank: false
+  - title: "Travel & Recipes"
+    url: /recipes
     blank: false
   - title: "Contact"
     url: /contact
