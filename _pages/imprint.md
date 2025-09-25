@@ -39,15 +39,15 @@ Our web hosting provider automatically collects data about every access to this 
 
 We do not actively use this log data for analysis. However, we reserve the right to review this log data retrospectively if there is concrete suspicion of unlawful use.
 
-### GitHub Pages and CDN Usage
+### CDN Usage
 
-This website utilizes a Content Delivery Network (CDN) to optimize loading times and ensure efficient content delivery worldwide. This service is provided by GitHub Pages ([https://pages.github.com/](https://pages.github.com/)), which enables efficient and fast distribution of website content.
+This website utilizes a Content Delivery Network (CDN) to optimize loading times and ensure efficient content delivery worldwide.
 
 By using this website, you agree that some of your non-personal data, such as IP address and page usage information, may be transmitted via the CDN to ensure optimal website performance. This data transfer occurs in accordance with applicable data protection regulations.
 
 We respect your privacy and take appropriate measures to protect your information. Please refer to this Privacy Policy for more information on how we handle your data.
 
-If you have any questions or concerns regarding the use of GitHub Pages and the CDN on this website, please feel free to contact us.
+If you have any questions or concerns regarding the use of the CDN on this website, please feel free to contact us.
 
 ### Contacting Us
 
