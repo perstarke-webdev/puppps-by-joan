@@ -10,7 +10,7 @@ permalink: /imprint
 
 **Responsible Person:** Joan Gilmour
 
-**Email:** jgilmour1@msn.com
+**Email:** info@PUPPPS.us
 
 <br>
 
